@@ -1,0 +1,15 @@
+C:\Alex-Tavares\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\bin\Debug\net9.0\MediaNotas.App.exe
+C:\Alex-Tavares\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\bin\Debug\net9.0\MediaNotas.App.deps.json
+C:\Alex-Tavares\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\bin\Debug\net9.0\MediaNotas.App.runtimeconfig.json
+C:\Alex-Tavares\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\bin\Debug\net9.0\MediaNotas.App.dll
+C:\Alex-Tavares\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\bin\Debug\net9.0\MediaNotas.App.pdb
+C:\Alex-Tavares\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\obj\Debug\net9.0\MediaNotas.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alex-Tavares\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\obj\Debug\net9.0\MediaNotas.App.AssemblyInfoInputs.cache
+C:\Alex-Tavares\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\obj\Debug\net9.0\MediaNotas.App.AssemblyInfo.cs
+C:\Alex-Tavares\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\obj\Debug\net9.0\MediaNotas.App.csproj.CoreCompileInputs.cache
+C:\Alex-Tavares\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\obj\Debug\net9.0\MediaNotas.App.sourcelink.json
+C:\Alex-Tavares\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\obj\Debug\net9.0\MediaNotas.App.dll
+C:\Alex-Tavares\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\obj\Debug\net9.0\refint\MediaNotas.App.dll
+C:\Alex-Tavares\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\obj\Debug\net9.0\MediaNotas.App.pdb
+C:\Alex-Tavares\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\obj\Debug\net9.0\MediaNotas.App.genruntimeconfig.cache
+C:\Alex-Tavares\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\obj\Debug\net9.0\ref\MediaNotas.App.dll
