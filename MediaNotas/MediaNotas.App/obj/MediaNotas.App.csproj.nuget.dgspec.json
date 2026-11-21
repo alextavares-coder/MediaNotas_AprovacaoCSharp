@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Alex-Tavares\\MediaNotas_AprovacaoCSharp\\MediaNotas\\MediaNotas.App\\MediaNotas.App.csproj": {}
+    "D:\\9 - TESTE DE SISTEMAS\\Minha Atividade\\Códigos do C#\\MediaNotas_AprovacaoCSharp\\MediaNotas\\MediaNotas.App\\MediaNotas.App.csproj": {}
   },
   "projects": {
-    "C:\\Alex-Tavares\\MediaNotas_AprovacaoCSharp\\MediaNotas\\MediaNotas.App\\MediaNotas.App.csproj": {
+    "D:\\9 - TESTE DE SISTEMAS\\Minha Atividade\\Códigos do C#\\MediaNotas_AprovacaoCSharp\\MediaNotas\\MediaNotas.App\\MediaNotas.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Alex-Tavares\\MediaNotas_AprovacaoCSharp\\MediaNotas\\MediaNotas.App\\MediaNotas.App.csproj",
+        "projectUniqueName": "D:\\9 - TESTE DE SISTEMAS\\Minha Atividade\\Códigos do C#\\MediaNotas_AprovacaoCSharp\\MediaNotas\\MediaNotas.App\\MediaNotas.App.csproj",
         "projectName": "MediaNotas.App",
-        "projectPath": "C:\\Alex-Tavares\\MediaNotas_AprovacaoCSharp\\MediaNotas\\MediaNotas.App\\MediaNotas.App.csproj",
-        "packagesPath": "C:\\Users\\wcc_devs\\.nuget\\packages\\",
-        "outputPath": "C:\\Alex-Tavares\\MediaNotas_AprovacaoCSharp\\MediaNotas\\MediaNotas.App\\obj\\",
+        "projectPath": "D:\\9 - TESTE DE SISTEMAS\\Minha Atividade\\Códigos do C#\\MediaNotas_AprovacaoCSharp\\MediaNotas\\MediaNotas.App\\MediaNotas.App.csproj",
+        "packagesPath": "C:\\Users\\alexc\\.nuget\\packages\\",
+        "outputPath": "D:\\9 - TESTE DE SISTEMAS\\Minha Atividade\\Códigos do C#\\MediaNotas_AprovacaoCSharp\\MediaNotas\\MediaNotas.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\Visual Studio Community\\componentes\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\wcc_devs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alexc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -31,6 +31,7 @@
         },
         "frameworks": {
           "net9.0": {
+            "framework": "net9.0",
             "targetAlias": "net9.0",
             "projectReferences": {}
           }
@@ -45,10 +46,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net9.0": {
+          "framework": "net9.0",
           "targetAlias": "net9.0",
           "imports": [
             "net461",
@@ -66,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.310/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

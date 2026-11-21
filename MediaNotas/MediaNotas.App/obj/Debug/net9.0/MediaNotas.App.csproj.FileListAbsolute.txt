@@ -13,3 +13,18 @@ C:\Alex-Tavares\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\obj\Debug\n
 C:\Alex-Tavares\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\obj\Debug\net9.0\MediaNotas.App.pdb
 C:\Alex-Tavares\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\obj\Debug\net9.0\MediaNotas.App.genruntimeconfig.cache
 C:\Alex-Tavares\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\obj\Debug\net9.0\ref\MediaNotas.App.dll
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\bin\Debug\net9.0\MediaNotas.App.exe
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\bin\Debug\net9.0\MediaNotas.App.deps.json
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\bin\Debug\net9.0\MediaNotas.App.runtimeconfig.json
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\bin\Debug\net9.0\MediaNotas.App.dll
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\bin\Debug\net9.0\MediaNotas.App.pdb
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\obj\Debug\net9.0\MediaNotas.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\obj\Debug\net9.0\MediaNotas.App.AssemblyInfoInputs.cache
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\obj\Debug\net9.0\MediaNotas.App.AssemblyInfo.cs
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\obj\Debug\net9.0\MediaNotas.App.csproj.CoreCompileInputs.cache
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\obj\Debug\net9.0\MediaNotas.App.sourcelink.json
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\obj\Debug\net9.0\MediaNotas.App.dll
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\obj\Debug\net9.0\refint\MediaNotas.App.dll
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\obj\Debug\net9.0\MediaNotas.App.pdb
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\obj\Debug\net9.0\MediaNotas.App.genruntimeconfig.cache
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\MediaNotas_AprovacaoCSharp\MediaNotas\MediaNotas.App\obj\Debug\net9.0\ref\MediaNotas.App.dll
