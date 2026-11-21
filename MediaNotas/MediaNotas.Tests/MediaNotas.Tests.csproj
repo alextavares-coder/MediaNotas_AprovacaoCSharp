@@ -18,4 +18,8 @@
     <Using Include="Xunit" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MediaNotas.App\MediaNotas.App.csproj" />
+  </ItemGroup>
+
 </Project>
